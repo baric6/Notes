@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Cyber Security</string>
+
+    <string-array name="topics">
+        <item>Security +</item>
+        <item>Forensics</item>
+        <item>Tools</item>
+    </string-array>
+</resources>
